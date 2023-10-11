@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Sinan SARIŞEN. An Android Developer currently at ParamTECH. An Android Engineer at work KREDİM procejt. Community is :heart:. :coffee: lover. 
+I'm Sinan SARIŞEN. An Android Developer currently at ParamTECH. An Android Engineer at work KREDİM project.
 
 
 ## Things I am passionate about
